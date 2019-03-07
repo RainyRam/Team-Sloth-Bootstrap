@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<link rel = "stylesheet"
+<link rel = "stylesheet-nav"
    type = "text/css"
-   href = "stylesheet.css" />
+   href = "stylesheet-nav.css" />
 	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
 
 	
