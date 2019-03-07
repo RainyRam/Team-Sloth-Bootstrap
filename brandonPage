@@ -1,9 +1,39 @@
 <!doctype html>
 <html>
 <head>
-
+<link rel = "stylesheet"
+   type = "text/css"
+   href = "stylesheet.css" />
+	<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+	
+	<nav class="topnav" id = "menu">
+  	<li><a class="active" href="#home">Home</a></li>
+  	<li><a href="#hartford">Wendy Hartford</a></li>
+  	<li><a href="#keoloha">Brandon Keoloha</a></li>
+  	<li><a href="#sacino">Joey Sacino</a></li>
+	<li><a href="#wirick">Rebecca Wirick</a></li>
+		</nav>
+	
 	</head>
 <body>
+	<div class="bioBox">
+    <h3 id="jTitle">Brandon Kealoha</h3>
+	  <center><img src="Images/kealoha.JPG" class="bioPic"></center><br>
+    <p>
+		My name’s Brandon Kealoha and I’m a junior going on to senior. Born and raised in Hawaii, I moved to Boise State and joined the GIMM program to further my education and to do something with my passion for video games. My hobbies, aside from playing video games, include reading, photography, going on walks, and creative writing. Through this class, I hope to further develop my coding skills as well as my understanding of the technical side of video game development. While I’m a bit unsure about my plans after GIMM, I hope to get into the video game industry, preferably something in modeling and asset creation or in the writing process.
+	</p>
+		
+		<p>
+			
+			Link to WordPress website:
+			<br>
+			<a class="wordpress-website" data-link-color="#19CF86" href="http://18.212.9.89/">Instances of Nature</a> <script async src="" charset="utf-8"></script>
+		</p>
+		
+	</div>
+	
+	
 	
 </body>
 </html>
