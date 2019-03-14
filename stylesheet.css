@@ -108,6 +108,15 @@ nav {
   overflow: auto; /* Enable scrolling if the sidenav has too much content */
 }
 
+.post-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 35px;
+height: 0;
+overflow: hidden;
+}
+
+
 
 
 .menuGrid {
