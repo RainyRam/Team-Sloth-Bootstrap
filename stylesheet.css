@@ -208,6 +208,12 @@ overflow: hidden;
 	border:thin #000000;
 	border-radius: 100%;
 }
+
+.litter-Logo {
+	display:block;
+	width: 20em;
+	height:20em;
+}
 .resourceBox {
 	text-align: center;
 	padding: 20px;
