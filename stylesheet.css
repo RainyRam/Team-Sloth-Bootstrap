@@ -201,6 +201,13 @@ overflow: hidden;
 	border:thin #000000;
 	border-radius: 100%;
 }
+.bioPic-joey {
+	display:block;
+	width: 20em;
+	height:15em;
+	border:thin #000000;
+	border-radius: 100%;
+}
 .resourceBox {
 	text-align: center;
 	padding: 20px;
