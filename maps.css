@@ -1,7 +1,8 @@
 /* CSS Document */
 
 #map{
-    height: 100%;
+	width: 500;
+    height: 500;
 }
 html, body{
     height: 100%;
