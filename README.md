@@ -1,3 +1,5 @@
-# Team-Sloth-Bootstrap
+# Team Sloth Bootstrap (With Map!)
 
-Our team website, now with Bootstrap!
+<p>Our team website, now with Bootstrap (and a map!)</p>
+
+
